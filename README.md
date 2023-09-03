@@ -2,8 +2,8 @@
 ### Currently: RAI King Mongkut's Institute of Technology Ladkrabang  
 
 - 💬 Ask me about **godot**  
-- 📫 How to reach me **pattara2546za@hotmail.com**  
-- 👨‍💻 All of my projects are available at  **https://to-testone.github.io/**  
+- 📫 How to reach me **pattaraw.to@gmail.com**  
+- 👨‍💻 All of my projects are available at  **https://pattara-to.github.io/**  
 - ⚡ Fun fact **I love to develop games**  
 
 <h3 align="left">Connect with me:</h3>
